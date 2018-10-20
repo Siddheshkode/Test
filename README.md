@@ -1,2 +1,2 @@
 # Test
-It is a test programe of python
+It's is a simple calculator
